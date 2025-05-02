@@ -5,14 +5,12 @@
 
 <p align="left"> <a href="https://twitter.com/adynanwani" target="blank"><img src="https://img.shields.io/twitter/follow/adynanwani?logo=twitter&style=for-the-badge" alt="adynanwani" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS and AWS**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Node, Express, MongoDB**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Next.js, PostgreSQL, Node, Express, MongoDB**
 
 - 📫 How to reach me **adarsh.nanwani@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+<!-- ### Blogs posts -->
+<!-- BLOG-POST-LIST:START 
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
